@@ -19,6 +19,7 @@ Al ejecutar el archivo, se deben mostrar la cantidad de líneas que tiene cada u
 Crea un nuevo commit en la rama "generarlipsum" sumando el nuevo archivo "contar.sh"
 Realiza un merge de tu rama "generarlipsum" a la rama principal de tu repositorio usando una Pull Request.
 
+NOTA: Le he agregado a contar.sh la posibilidad de crear un archivo con la sumatoria de todas las lineas entre los 5 archivos .txt
 
 Comandos que te pueden servir para resolver este ejercicio:
 echo
